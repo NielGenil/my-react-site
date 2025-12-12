@@ -7,6 +7,9 @@ function App() {
       <h1>Hello from React!</h1>
       <p>This is a simple webpage built with JSX and deployed on GitHub Pages.</p>
 
+
+      <p>NIEL POGI</p>
+
       <button onClick={() => alert("You clicked the button!")}>
         Click me
       </button>
